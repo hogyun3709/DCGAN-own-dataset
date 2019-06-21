@@ -41,6 +41,7 @@ successfully opened CUDA library libcublas.so.**.** locally
 ```
 
 ## Result
+You can check result in directory /out/20******.****-data-your_dataset_folder_name-image_demension/samples/ <br>
 My own dataset is a combination of style lookbook.
 Looking for 8x8 neatly generated clothes but, around 15 epoch, it seems the result with high noise. Further modification required.<br>
 ![result](/lookbook-result.gif)
