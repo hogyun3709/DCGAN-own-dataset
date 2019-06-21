@@ -1,0 +1,1 @@
+python3 main.py --dataset lookbook --input_height=108 --crop --train True
